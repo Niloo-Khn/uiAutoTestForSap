@@ -3,7 +3,9 @@ Sample Automation testing with selenium using Python
 
 for executing this test please check the following:
 
- 1- Install Python3, Pip and pycharm
+-Git clone the project-
+
+1- Install Python3, Pip and pycharm
 
 2- Get some packages which is used in project (Selenium, time, configparser)
 
